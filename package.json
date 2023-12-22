@@ -9,8 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/annie-use-your-telescope": "^5.0.8",
+    "@fontsource/bungee-shade": "^5.0.17",
+    "@fontsource/moo-lah-lah": "^5.0.17",
+    "@fontsource/rubik": "^5.0.17",
+    "@fontsource/swanky-and-moo-moo": "^5.0.8",
+    "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.2"
+    "react-icons": "^4.12.0",
+    "typeface-amiko": "^1.1.13",
+    "typeface-bungee-inline": "^1.1.13",
+    "typeface-pacifico": "^1.1.13"
   }
 }
